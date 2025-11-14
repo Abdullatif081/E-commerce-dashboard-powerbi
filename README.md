@@ -2,7 +2,7 @@
 
 A comprehensive and interactive Power BI analytics dashboard built to explore, analyze, and visualize key performance metrics for an e-commerce business. This project transforms raw transactional data into meaningful insights, enabling data-driven decision-making for business stakeholders.
 
-### 1 🚀 Project Overview
+## 🚀 Project Overview
 
 This project focuses on analyzing a U.S.–based e-commerce dataset containing 24,404 rows of sales, shipping, customer, and product data.
 The dashboard provides a consolidated view of:
@@ -23,8 +23,8 @@ The dashboard provides a consolidated view of:
 
 The goal is to help businesses understand what drives revenue, which states generate the most value, how shipping impacts profit, and which products sell together, all through easy-to-interpret visuals.
 
-🧩 Dashboard Features
-🔹 1. Customer Insights
+## 🧩 Dashboard Features
+### 🔹 1. Customer Insights
 
 Customer Lifetime Value (LTV) by state
 
@@ -32,7 +32,7 @@ Total customers by region and state
 
 Purchase behavior patterns
 
-🔹 2. Sales Analytics
+### 🔹 2. Sales Analytics
 
 Sales by category, description, region, and state
 
@@ -40,7 +40,7 @@ Profit percentages across product categories
 
 Top-selling and low-selling products
 
-🔹 3. Shipping Analysis
+### 🔹 3. Shipping Analysis
 
 Shipping costs vs. quantity shipped
 
@@ -50,7 +50,7 @@ Shipping savings from optimized operations
 
 Shipping cost by region and state
 
-🔹 4. Product Level Insights
+### 🔹 4. Product Level Insights
 
 Quantity averages by product category
 
@@ -58,7 +58,7 @@ Market Basket Analysis (products frequently bought together)
 
 Sales & profit % by description
 
-🔹 5. Executive Summary
+### 🔹 5. Executive Summary
 
 A high-level view of:
 
@@ -70,7 +70,7 @@ Profit %
 
 Total Shipping Cost
 
-📂 Project Files Included
+## 📂 Project Files Included
 
 Power BI Dashboard (.pbix)
 
@@ -80,7 +80,7 @@ PDF Export of Dashboard
 
 README Documentation
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI Desktop (data modeling & visualization)
 
@@ -90,7 +90,7 @@ DAX (Data Analysis Expressions)
 
 Git & GitHub (version control & sharing)
 
-📈 Key Business Questions Answered
+## 📈 Key Business Questions Answered
 
 Which states contribute the highest customer LTV?
 
@@ -102,7 +102,7 @@ Which products are frequently purchased together?
 
 How can optimized shipping reduce overall operational expenses?
 
-📦 How to View the Dashboard
+## 📦 How to View the Dashboard
 
 Download the .pbix file from the repository
 
@@ -112,7 +112,7 @@ Refresh data (optional)
 
 Interact with filters, slicers, and visual insights
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 Data Cleaning & Preparation
 
@@ -126,7 +126,7 @@ Scenario Analysis (What-If tools)
 
 Dashboard storytelling
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This E-Commerce Power BI Dashboard offers a powerful, interactive way to understand business performance, customer behavior, and product efficiency.
 It supports strategic decisions, operational optimization, and customer value enhancement
