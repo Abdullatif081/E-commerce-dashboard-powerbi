@@ -2,7 +2,7 @@
 
 A comprehensive and interactive Power BI analytics dashboard built to explore, analyze, and visualize key performance metrics for an e-commerce business. This project transforms raw transactional data into meaningful insights, enabling data-driven decision-making for business stakeholders.
 
-🚀 Project Overview
+1 🚀 Project Overview
 
 This project focuses on analyzing a U.S.–based e-commerce dataset containing 24,404 rows of sales, shipping, customer, and product data.
 The dashboard provides a consolidated view of:
