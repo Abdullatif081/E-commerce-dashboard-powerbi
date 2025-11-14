@@ -132,4 +132,4 @@ This E-Commerce Power BI Dashboard offers a powerful, interactive way to underst
 It supports strategic decisions, operational optimization, and customer value enhancement
 
 Screenshoots/Demo
-Show what the dashboard looklike
+Show what the dashboard look like ![Dashboard Summery].()
